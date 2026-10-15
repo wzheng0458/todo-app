@@ -1,5 +1,3 @@
-# todo-app
-
 # TaskFlow – Full-Stack Todo App
 
 **Backend:** Java 17 · Spring Boot 3.3 · Spring Security + JWT · Spring Data JPA · H2 / MySQL
